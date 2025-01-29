@@ -1,5 +1,5 @@
 # 💫 About Me:
-MUHAMMAD YAHYA<br>Flutter Developer<br><br>📧 Email: yahya.ali.barki@gmail.com<br>📱 Mobile: (+92) 3121900963<br>🔗 LinkedIn<br>🐙 GitHub<br><br>About Me:<br>🚀 Results-driven Flutter Developer with 2+ years of experience in mobile app development. Proficient in Dart, Firebase, and UI/UX design, with a strong track record of building high-quality, cross-platform applications. Experienced in collaborating with teams, troubleshooting, and optimizing code for performance.
+MUHAMMAD YAHYA<br>Flutter Developer<br><br>📧 Email: yahya.ali.barki@gmail.com<br>📱 Mobile: (+92) 3121900963<br>🔗 LinkedIn<br>🐙 GitHub<br><br>About Me:<br>🚀 Results-driven Flutter Developer with 3 years of experience in mobile app development. Proficient in Dart, Firebase, and UI/UX design, with a strong track record of building high-quality, cross-platform applications. Experienced in collaborating with teams, troubleshooting, and optimizing code for performance.
 
 
 ## 🌐 Socials:
